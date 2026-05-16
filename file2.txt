@@ -1,2 +1,2 @@
 file2.txt in master
-updated in branch1
+updated in branch2
